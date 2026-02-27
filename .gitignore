@@ -1,0 +1,106 @@
+# ============================================
+# Unity 자동 생성 폴더 (버전관리 불필요)
+# ============================================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+.vs/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+crashlytics-build.properties
+Assets/AssetStoreTools*
+
+# ============================================
+# 외부 에셋 / 서드파티 패키지 (코드 제외)
+# ============================================
+Assets/Oculus/
+Assets/Oculus.meta
+Assets/Photon/
+Assets/Photon.meta
+Assets/TextMesh Pro/
+Assets/TextMesh Pro.meta
+Assets/XR/
+Assets/XR.meta
+Assets/XRI/
+Assets/XRI.meta
+Assets/XRI_Examples/
+Assets/XRI_Examples.meta
+Assets/Samples/
+Assets/Samples.meta
+Assets/TutorialInfo/
+Assets/TutorialInfo.meta
+Assets/Plugins/
+Assets/Plugins.meta
+Assets/Others/
+Assets/Others.meta
+Assets/ASync/
+Assets/ASync.meta
+
+# ============================================
+# 바이너리 에셋 (모델, 텍스처, 오디오, 영상 등)
+# ============================================
+Assets/01.Scenes/
+Assets/01.Scenes.meta
+Assets/03.Prefabs/
+Assets/03.Prefabs.meta
+Assets/04.Materials/
+Assets/04.Materials.meta
+Assets/05.Resources/
+Assets/05.Resources.meta
+Assets/06.Characters/
+Assets/06.Characters.meta
+Assets/07.Shader/
+Assets/07.Shader.meta
+Assets/Day-Night Skyboxes/
+Assets/Day-Night Skyboxes.meta
+Assets/Videos/
+Assets/Videos.meta
+Assets/StreamingAssets/
+Assets/StreamingAssets.meta
+Assets/ProBuilder Data/
+Assets/ProBuilder Data.meta
+Assets/Resources/
+Assets/Resources.meta
+Assets/RiderFlow.UserData/
+Assets/RiderFlow.UserData.meta
+Assets/Settings/
+Assets/Settings.meta
+Assets/Assets/
+Assets/Assets.meta
+
+# 씬, 애니메이션, 머티리얼, 에셋 파일 (모든 경로)
+**/*.unity
+**/*.unity.meta
+**/*.controller
+**/*.controller.meta
+**/*.anim
+**/*.anim.meta
+**/*.mat
+**/*.mat.meta
+**/*.lighting
+**/*.lighting.meta
+**/*.asset
+**/*.asset.meta
+
+# ============================================
+# 라이브러리/패키지 설정 (선택사항)
+# ============================================
+Packages/
+ProjectSettings/
+
+# OS 파일
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
